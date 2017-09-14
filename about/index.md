@@ -15,6 +15,6 @@ There are excellent guides for setting this up [here](http://jmcglone.com/guides
 <form id="contactform" action="//formspree.io/hort_wort@hotmail.com" method="POST">
     <input type="text" name="name" placeholder="Your name"><br />
     <input type="email" name="_replyto" placeholder="Your email"><br />
-    <textarea name="message" placeholder="Your message" style="height:200px"></textarea><br />
+    <textarea name="message" placeholder="Your message" style="height:200px" style="width:100%"></textarea><br />
     <input type="submit" value="Send">
 </form>
