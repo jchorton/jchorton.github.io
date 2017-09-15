@@ -8,14 +8,12 @@ title: CV
 ## Experience
 
 ### Vocational
-
 * 2012–2015 **Freelance Writer**, *Contractual*.  
 Penned two science-fiction novels. Summarized statistics textbook for Chegg.
 * 2005–2008 **Graduate Research Assistant**, *Indiana University*, Bloomington, IN.  
 Worked on projects with two different teams at the IU Cyclotron Facility. The tasks included the design and construction of an adiabatic spin flipper, simulation of neutron scattering angles from a superfluid, and assistance in the development of a fiber-optic-based neutral particle detector.
 
 ### Miscellaneous
-
 * 2013–2015 **Website Design**.  
 Designed and maintained website for sale of a novel. Later just switched to Amazon.
 
@@ -29,7 +27,6 @@ Specialized in experimental nuclear physics. Passed PhD qualification test in 20
 Participated in REU program in 2003 to study low-light imaging of a proton beam. Wrote senior thesis on the FORTRAN-based simulation of a neutron telescope.
 
 ## Computer skills
-
 | Skill             | Software                                        |
 | :---              | :---:                                           |
 | Operating Systems | Windows, DOS, Linux/Unix                        |
