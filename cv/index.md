@@ -35,3 +35,6 @@ Participated in REU program in 2003 to study low-light imaging of a proton beam.
 | Languages         | C/C++, FORTRAN, Python, Java, Assembly          |
 | Website Dev       | HTML, PHP, JavaScript, WordPress, MySQL         |
 | Analysis          | Excel, Mathematica, MATLAB                      |
+
+| A simple | table |
+| with multiple | lines|
