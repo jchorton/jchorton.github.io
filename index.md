@@ -7,8 +7,7 @@ title: Jonathan Horton
 ![Image of Jonathan Horton](/images/jchortonCropSmall.jpg "Jonathan Horton")
 
 ### Page Under Construction!
-I'm currently building the site. Changes will be frequent until "finished".
-
+I'm currently building the site. Changes will be frequent until "finished". Please bear with me. I'm challenging myself to become more familiar with GitHub's version of Markdown and page restrictions.
 
 ### Contact
 <form id="contactform" action="//formspree.io/hort_wort@hotmail.com" method="POST">
