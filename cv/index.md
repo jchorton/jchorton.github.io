@@ -27,14 +27,12 @@ Specialized in experimental nuclear physics. Passed PhD qualification test in 20
 Participated in REU program in 2003 to study low-light imaging of a proton beam. Wrote senior thesis on the FORTRAN-based simulation of a neutron telescope.
 
 ## Computer skills
+
 | Skill             | Software                                        |
-| :---              | :---:                                           |
+|:------------------|:-----------------------------------------------:|
 | Operating Systems | Windows, DOS, Linux/Unix                        |
 | Editors           | Word, LaTeX, vim, Atom                          |
 | Compilers         | Visual Studio, Eclipse, Android Studio, gcc/g++ |
 | Languages         | C/C++, FORTRAN, Python, Java, Assembly          |
 | Website Dev       | HTML, PHP, JavaScript, WordPress, MySQL         |
 | Analysis          | Excel, Mathematica, MATLAB                      |
-
-| A simple | table |
-| with multiple | lines|
