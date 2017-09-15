@@ -1,5 +1,5 @@
 name: Jonathan Horton
-markdown: kramdown
+markdown: redcarpet
 theme: jekyll-theme-modernist
 
 permalink: /blog/:year/:month/:day/:title
