@@ -3,11 +3,11 @@ layout: default
 title: Jonathan Horton
 ---
 
-# Under Construction
-
+# Jonathan Horton, Student Programmer
 ![Image of Jonathan Horton](/images/jchortonCropSmall.jpg "Jonathan Horton")
 
-I'm currently building the site. [Test link to about page.](/about)
+### Page Under Construction!
+I'm currently building the site. Changes will be frequent until "finished".
 
 
 ### Contact
