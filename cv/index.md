@@ -24,7 +24,7 @@ Specialized in experimental nuclear physics. Passed PhD qualification test in 20
 * 2001–2005 **BS Physics & BS Mathematics**, *Indiana University*, Bloomington, IN.  
 Participated in REU program in 2003 to study low-light imaging of a proton beam. Wrote senior thesis on the FORTRAN-based simulation of a neutron telescope.
 
-## Computer skills
+## Professional skills
 
 | Skill              | Software                                        |
 |:-------------------|:-----------------------------------------------:|
