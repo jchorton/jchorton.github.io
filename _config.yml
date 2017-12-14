@@ -2,7 +2,7 @@ name: Jonathan Horton
 title: Jonathan Horton
 description: A humble homepage
 show_downloads: false
-google_analytics: 
+google_analytics: UA-111288473-1
 
 markdown: kramdown
 theme: jekyll-theme-slate
