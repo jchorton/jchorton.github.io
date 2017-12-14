@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Jonathan Horton
+title: Home
 ---
 
-# Jonathan Horton, Student Programmer
+# Home
 ![Image of Jonathan Horton](/images/jchortonCropSmall.jpg "Jonathan Horton")
 
 ### Page Under Construction!
 I'm currently building the site. Changes will be frequent until "finished". Please bear with me. I'm challenging myself to become more familiar with GitHub's version of Markdown and page restrictions.  
-_Last Update: 2017-12-12_
+_Last Update: 2017-12-14_
 
 ### Contact
 <form id="contactform" action="//formspree.io/hort_wort@hotmail.com" method="POST">

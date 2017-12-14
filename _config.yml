@@ -1,8 +1,23 @@
 name: Jonathan Horton
-markdown: kramdown
-theme: jekyll-theme-modernist
+title: Jonathan Horton
+description: A humble homepage
+show_downloads: false
+google_analytics: 
 
-permalink: /blog/:year/:month/:day/:title
+markdown: kramdown
+theme: jekyll-theme-slate
+
+#permalink: /blog/:year/:month/:day/:title
 
 plugins:
   - jekyll-sitemap
+
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+#theme: jekyll-theme-primer
+gfm_quirks: paragraph_end
