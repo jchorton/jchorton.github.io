@@ -1,7 +1,16 @@
 ---
 layout: default
-title: CV
+title: Resume
 ---
+
+## Education
+
+* 2015–2017 **BS Computer Science**, *Oregon State University*, Corvallis, OR.  
+Online, post-bacc program. [Capstone project](https://youtu.be/5IsP7MNEriI) programming small game in Unity.
+* 2005–2007 **MS Physics**, *Indiana University*, Bloomington, IN.  
+Specialized in experimental nuclear physics. Passed PhD qualification test in 2007.
+* 2001–2005 **BS Physics & BS Mathematics**, *Indiana University*, Bloomington, IN.  
+Participated in REU program in 2003 to study low-light imaging of a proton beam. Wrote senior thesis on the FORTRAN-based simulation of a neutron telescope.
 
 ## Experience
 
@@ -14,15 +23,6 @@ Worked on projects with two different teams at the IU Cyclotron Facility. The ta
 ### Miscellaneous
 * 2013–2015 **Website Design**.  
 Designed and maintained website for sale of a novel. Later just switched to using Amazon promotions.
-
-## Education
-
-* 2015–2017 **BS Computer Science**, *Oregon State University*, Corvallis, OR.  
-Online, post-bacc program. [Capstone project](https://youtu.be/5IsP7MNEriI) programming small game in Unity.
-* 2005–2007 **MS Physics**, *Indiana University*, Bloomington, IN.  
-Specialized in experimental nuclear physics. Passed PhD qualification test in 2007.
-* 2001–2005 **BS Physics & BS Mathematics**, *Indiana University*, Bloomington, IN.  
-Participated in REU program in 2003 to study low-light imaging of a proton beam. Wrote senior thesis on the FORTRAN-based simulation of a neutron telescope.
 
 ## Professional skills
 
