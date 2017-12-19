@@ -30,6 +30,6 @@ Designed and maintained website for sale of a novel. Later just switched to usin
 |:-------------------|:-----------------------------------------------:|
 | Operating Systems  | Windows, DOS, Linux/Unix                        |
 | Analysis & Editing | Word, Excel, Mathematica, MATLAB, vim           |
-| Compilers & IDEs   | MS Visual Studio, Eclipse, Android Studio, gcc/g++, Unity, LaTeX |
+| Compilers & IDEs   | MS Visual Studio, Eclipse, [Android Studio](https://youtu.be/7AaBLhZ92jk?t=5m), gcc/g++, Unity, LaTeX |
 | Coding Languages   | C/C++/C#, FORTRAN, Python, Java, Assembly          |
-| Website Dev        | HTML, PHP, JavaScript, WordPress, MySQL, NoSQL         |
+| Website Dev        | HTML, PHP, JavaScript, WordPress, MySQL, [NoSQL](https://youtu.be/7AaBLhZ92jk)         |
