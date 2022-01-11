@@ -7,8 +7,8 @@ title: Home
 ![Image of Jonathan Horton](/images/jchortonCropSmall.jpg "Jonathan Horton")
 
 ### Page Under Construction!
-I'm currently building the site. Changes will be frequent until "finished". Please bear with me. I'm challenging myself to become more familiar with GitHub's version of Markdown and page restrictions.  
-_Last Update: 2020-03-11_
+These pages will always be under construction!
+_Last Update: 2022-01-11_
 
 ### Contact
 <form id="contactform" action="//formspree.io/hort_wort@hotmail.com" method="POST">
