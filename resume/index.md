@@ -4,7 +4,8 @@ title: Resume
 ---
 
 ## Education
-
+* 2021 **Data Analyst Career Learning Path**, *Coursera*.
+Classes before work to become more generalized.
 * 2015–2017 **BS Computer Science**, *Oregon State University*, Corvallis, OR.  
 Online, post-bacc program. [Capstone project](https://youtu.be/5IsP7MNEriI) programming small game in Unity.
 * 2005–2007 **MS Physics**, *Indiana University*, Bloomington, IN.  
@@ -31,7 +32,8 @@ Designed and maintained website for sale of a novel. Later just switched to usin
 | Skill              | Software                                        |
 |:-------------------|:-----------------------------------------------:|
 | Operating Systems  | Windows, DOS, Linux/Unix                        |
-| Analysis & Editing | Word, Excel, Mathematica, MATLAB, vim, pandas, [TensorFlow](https://youtu.be/Yz5_Fy_gjkw), Keras |
+| Analysis & Editing | Word, Excel, Mathematica, MATLAB, vim, pandas   |
+| Machine Learning   | [TensorFlow](https://youtu.be/Yz5_Fy_gjkw), Keras, DataRobot, Azure, sklearn |
 | Compilers & IDEs   | MS Visual Studio, Eclipse, [Android Studio](https://youtu.be/7AaBLhZ92jk?t=5m), gcc/g++, Unity, LaTeX |
 | Coding Languages   | C/C++/C#, FORTRAN, Python, Java, Assembly, EasyLanguage |
 | Website Dev        | HTML, PHP, JavaScript, WordPress, MySQL, [NoSQL](https://youtu.be/7AaBLhZ92jk) |
