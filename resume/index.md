@@ -16,7 +16,8 @@ Participated in REU program in 2003 to study low-light imaging of a proton beam.
 ## Experience
 
 ### Vocational
-* 2018-Current **Freelance Data Analyst**, *Contractual*.
+* 2022-Current **Data Analyst**, *Randall Reilly*, remote.
+* 2018-2022 **Freelance Data Analyst**, *Contractual*.
 Apprenticed under a hedge fund manager. This began with using machine learning to search for patterns and later specialized in writing analysis techniques in TradeStation EasyLanguage.
 * 2012–2015 **Freelance Writer**, *Contractual*.  
 Penned two science-fiction novels. Summarized statistics textbook for Chegg.
@@ -32,8 +33,8 @@ Designed and maintained website for sale of a novel. Later just switched to usin
 | Skill              | Software                                        |
 |:-------------------|:-----------------------------------------------:|
 | Operating Systems  | Windows, DOS, Linux/Unix                        |
-| Analysis & Editing | Word, Excel, Mathematica, MATLAB, vim, pandas   |
+| Analysis & Editing | Word, Excel, Mathematica, MATLAB, vim, pandas, PowerBI  |
 | Machine Learning   | [TensorFlow](https://youtu.be/Yz5_Fy_gjkw), Keras, DataRobot, Azure, sklearn |
 | Compilers & IDEs   | MS Visual Studio, Eclipse, [Android Studio](https://youtu.be/7AaBLhZ92jk?t=5m), gcc/g++, Unity, LaTeX |
-| Coding Languages   | C/C++/C#, FORTRAN, Python, Java, Assembly, EasyLanguage |
+| Coding Languages   | C/C++/C#, FORTRAN, Python, Java, Assembly, EasyLanguage, R |
 | Website Dev        | HTML, PHP, JavaScript, WordPress, MySQL, [NoSQL](https://youtu.be/7AaBLhZ92jk) |
