@@ -16,7 +16,7 @@ Participated in REU program in 2003 to study low-light imaging of a proton beam.
 ## Experience
 
 ### Vocational
-* 2022-Current **Data Analyst**, *Randall Reilly*, remote.
+* 2022-Current **Data Analyst**, *Randall Reilly / Fusable*, remote.
 * 2018-2022 **Freelance Data Analyst**, *Contractual*.
 Apprenticed under a hedge fund manager. This began with using machine learning to search for patterns and later specialized in writing analysis techniques in TradeStation EasyLanguage.
 * 2012–2015 **Freelance Writer**, *Contractual*.  
